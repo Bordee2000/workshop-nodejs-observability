@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "service1": "sh start_service1.sh",
-    "service2": "sh start_service2.sh"
+    "service1": "bash start_service1.sh",
+    "service2": "bash start_service2.sh"
   },
   "repository": {
     "type": "git",
