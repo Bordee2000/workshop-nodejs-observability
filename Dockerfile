@@ -18,3 +18,4 @@ COPY ./package.json .
 RUN npm install
 COPY . .
 CMD [ "node", "service3.js" ]
+
